@@ -1,0 +1,17 @@
+{
+  "name": "prototipo-reserva-salas",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Protótipo de gestão e reserva de salas de reunião",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "express": "^5.1.0"
+  }
+}
