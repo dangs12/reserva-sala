@@ -1,6 +1,9 @@
 # Protótipo de reserva de salas
 Aplicativo usa Javascript do backend (Express) e no front end e banco de dados SQlite.
 
+![](demo.mov)
+
+
 ### Modelo entidade relacionamento
 
 ![Modelo Entidade-Relacionamento](erd.png)
